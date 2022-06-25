@@ -1,0 +1,40 @@
+
+.container{
+    width: 300px;
+    margin: 5rem;
+    padding: 1rem;
+    padding-bottom: 0;
+    background-color: white;
+}
+
+.upperArea{
+    margin-bottom: 5rem;
+}
+
+.price{
+    display: flex;
+    margin-bottom: 0;
+}
+.gain {
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    text-align: center;
+    width: 3.5rem;
+    height: 1.2rem;
+    background-color:aquamarine;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 12%;
+}
+.dollar {
+    margin-top: 0.5rem;
+    margin-right: 0.2rem;
+    font-size: 1rem;
+    color: rgb(143, 141, 141);
+}
+
+.info{
+    margin-top: 0;
+    color: rgb(143, 141, 141);
+}
+

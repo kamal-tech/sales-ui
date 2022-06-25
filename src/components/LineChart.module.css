@@ -1,0 +1,26 @@
+.container{
+    width: 700px;
+    margin: 5rem;
+    padding: 1rem;
+    padding-bottom: 0;
+    background-color: white;
+}
+
+.dollar {
+    margin-right: 0.2rem;
+    font-size: 1rem;
+    color: rgb(143, 141, 141);
+}
+
+.info, p{
+    margin-top: 0;
+    color: rgb(143, 141, 141);
+}
+
+.upperArea{
+    margin-bottom: 3rem;
+}
+
+h3, .price{
+    margin-bottom: 0;
+}
